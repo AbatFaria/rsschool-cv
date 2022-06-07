@@ -1,2 +1,1 @@
-
-https://AbatFaria.github.io/rsschool-cv/cv
+https://AbatFaria.github.io/rsschool-cv/
