@@ -1,1 +1,1 @@
-CV for RS school
+https://AbatFaria.github.io/rsschool-cv/cv
